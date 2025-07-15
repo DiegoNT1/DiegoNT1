@@ -20,11 +20,11 @@ Estou empolgado para evoluir como desenvolvedor e contribuir com soluções cria
 
 
 
-<a>
+<a href="https://beacons.ai/DiegoNT1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoNT1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/DiegoNT1">
+<a href="https://beacons.ai/DiegoNT1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNT1&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
