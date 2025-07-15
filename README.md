@@ -4,12 +4,19 @@ Concluí o curso de Desenvolvimento Full Stack Java na EBAC, onde aprendi sobre 
 
 Estou empolgado para evoluir como desenvolvedor e contribuir com soluções criativas e funcionais para problemas do mundo real.
 
-🧠 Habilidades
-Linguagens: Java, HTML, CSS, JavaScript
+### 🧠 Habilidades:
+  - Linguagens: Java, HTML, CSS, JavaScript
 
-Ferramentas: Git, GitHub
+  - Ferramentas: Git, GitHub
 
-Conhecimentos: Desenvolvimento Web, Lógica de Programação, Noções de Arquitetura de Software
+  - Conhecimentos: Desenvolvimento Web, Lógica de Programação, Noções de Arquitetura de Software
+
+
+
+### 📫 Contato
+
+  - [LinkedIn]([https://www.linkedin.com/in/diegoagustinho/])
+
 
 
 <a href="https://beacons.ai/DiegoNT1">
