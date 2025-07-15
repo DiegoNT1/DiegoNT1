@@ -15,7 +15,8 @@ Estou empolgado para evoluir como desenvolvedor e contribuir com soluções cria
 
 ### 📫 Contato
 
-  - [LinkedIn]((https://www.linkedin.com/in/diegoagustinho/))
+  - [LinkedIn](https://www.linkedin.com/in/diegoagustinho/)
+
 
 
 
