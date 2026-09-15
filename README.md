@@ -4,8 +4,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e possuo for
 
 Tenho conhecimentos em desenvolvimento web e experiência prática em projetos utilizando HTML, CSS, JavaScript, React, TypeScript, SCSS e Bootstrap, além de Git e GitHub.
 
-Atualmente, busco uma oportunidade de estágio em Desenvolvimento de Software para aplicar meus conhecimentos, aprimorar minhas habilidades técnicas e adquirir experiência profissional na área de tecnologia.
-
 ### 🧠 Habilidades:
 
   - Linguagens: JavaScript, TypeScript, HTML, CSS
